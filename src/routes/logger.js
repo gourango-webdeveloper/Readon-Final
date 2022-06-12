@@ -7,4 +7,4 @@ const log = function() {
 
 module.exports.endpoint = endpoint
 module.exports.batch = batch
-module.exports.log = log
+module.exports.log =log
